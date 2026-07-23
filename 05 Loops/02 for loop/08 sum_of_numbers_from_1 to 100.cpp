@@ -1,4 +1,4 @@
-//write a program to print sum of numbers from 1 to 50 using for loop in c++ language.
+//write a program to print sum of numbers from 1 to 100 using for loop in c++ language.
 #include <iostream>
 using namespace std;
 int main()

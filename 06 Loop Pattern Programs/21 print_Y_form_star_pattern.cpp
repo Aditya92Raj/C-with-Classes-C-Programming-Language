@@ -5,7 +5,7 @@ int main()
 {
     int a,i,j;
     cout<<"Enter a number:";
-    cin<<a;
+    cin>>a;
     for(i=1;i<=a;i++)
     {
         for(j=1;j<=a;j++)

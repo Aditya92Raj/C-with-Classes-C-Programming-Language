@@ -1,4 +1,4 @@
-//Write a program to print 5 form star pattern in C++ language.
+//Write a program to print 3 form star pattern in C++ language.
 #include <iostream>
 using namespace std;
 int main()

@@ -1,10 +1,11 @@
 //Multiple spaces with the help of Tab
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 int main()
 {
-printf("Name:\tAditya Raj");
-printf("\nAge:\t18");
-printf("\nGender:\tMale");
-printf("\nState:\tBihar");
+cout<<"Name:\tAditya Raj";
+cout<<"\nAge:\t18";
+cout<<"\nGender:\tMale";
+cout<<"\nState:\tBihar";
 }
-//tab space in c++ is used to write multiple spaces at a time
+//tab space in c++ is used to write multiple spaces at a time.
